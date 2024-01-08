@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//gabrieldiaconu1.github.io/weather-app/static/css/main.6c768156.css",
+    "main.js": "//gabrieldiaconu1.github.io/weather-app/static/js/main.d8b89529.js",
+    "static/js/787.42650831.chunk.js": "//gabrieldiaconu1.github.io/weather-app/static/js/787.42650831.chunk.js",
+    "static/media/cloud.png": "//gabrieldiaconu1.github.io/weather-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "//gabrieldiaconu1.github.io/weather-app/index.html",
+    "main.6c768156.css.map": "//gabrieldiaconu1.github.io/weather-app/static/css/main.6c768156.css.map",
+    "main.d8b89529.js.map": "//gabrieldiaconu1.github.io/weather-app/static/js/main.d8b89529.js.map",
+    "787.42650831.chunk.js.map": "//gabrieldiaconu1.github.io/weather-app/static/js/787.42650831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c768156.css",
+    "static/js/main.d8b89529.js"
+  ]
+}
